@@ -131,7 +131,7 @@ O gráfico de linhas abaixo ilustra a redução do tempo de execução conforme 
  
 Eixo X: número de processos MPI. Eixo Y: tempo de execução em segundos. A curva apresenta queda acentuada entre 1 e 2 processos e estabilização a partir de 8 processos.
  
-![Gráfico Tempo de Execução](graficos/tempo_execucao.png)
+![Gráfico Tempo de Execução](tempo_execucao.png)
  
 ---
  
@@ -149,7 +149,7 @@ O gráfico de linhas abaixo compara o speedup obtido com o speedup ideal (linear
  
 Eixo X: número de processos MPI. Eixo Y: speedup. A linha tracejada representa o speedup ideal linear; a linha sólida representa o speedup obtido.
  
-![Gráfico Speedup](graficos/speedup.png)
+![Gráfico Speedup](speedup.png)
  
 ---
  
@@ -167,7 +167,7 @@ O gráfico de linhas abaixo mostra a eficiência da paralelização. Os dados pl
  
 Eixo X: número de processos MPI. Eixo Y: eficiência. A linha tracejada em 1,0 representa a eficiência ideal. Valores acima de 1,0 indicam speedup superlinear; abaixo de 1,0 indicam overhead de paralelização.
  
-![Gráfico Eficiência](graficos/eficiencia.png)
+![Gráfico Eficiência](eficiencia.png)
  
 ---
  
